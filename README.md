@@ -2,9 +2,9 @@
 -----------------------------------------------------------------------------------------------
 Black-box aderversarial attack experiments for  [Communication-Efficient Stochastic Zeroth-Order Optimization for Federated Learning](https://arxiv.org/abs/2201.09531).
 
-For detailed information, please refer to the paper.
+For detailed information and results, please refer to the paper.
 
-## Requirments
+## Requirements
 The environment for this experiment is 
 * Python 3.8.5
 * Pytorch
